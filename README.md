@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 :computer::pencil2:Sou o Elton, tenho 19 anos e atualmente estou graduando em Ciências da Computação na Unisagrado.
 Tenho interesse na área tecnológica desde criança, sempre gostei muito de jogos digitais e de explorar o uso do computador em diversas áreas, principalmente no desenvolvimento de sites e outros tipos de aplicação.
