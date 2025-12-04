@@ -20,6 +20,11 @@ Já tive experiências com as tecnologias:<br>
 
 Outras informações gerais sobre meu perfil:
 
-[![Elton GitHub Stats](https://github-readme-stats.vercel.app/api?username=EltonVitorettiJr)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/EltonVitorettiJr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EltonVitorettiJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EltonVitorettiJr&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EltonVitorettiJr)](https://github.com/anuraghazra/github-readme-stats)
