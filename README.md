@@ -20,11 +20,6 @@ Já tive experiências com as tecnologias:<br>
 
 Outras informações gerais sobre meu perfil:
 
-<div>
-  <a href="https://github.com/EltonVitorettiJr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EltonVitorettiJr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EltonVitorettiJr&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+<div align="center">
+  <img src="https://metrics.lecoq.io/EltonVitorettiJr?template=classic&base.header=0&isocalendar=1&languages=1&config.timezone=America%2FSao_Paulo">
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EltonVitorettiJr)](https://github.com/anuraghazra/github-readme-stats)
