@@ -39,5 +39,5 @@ Já tive experiências com as tecnologias:<br>
 <br>
 <div align="center">
   <p>Outras informações gerais sobre meu perfil:</p>
-  <img src="https://metrics.lecoq.io/EltonVitorettiJr?template=classic&base.header=0&isocalendar=1&languages=1&config.timezone=America%2FSao_Paulo">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EltonVitorettiJr)](https://github.com/anuraghazra/github-readme-stats)
 </div>
