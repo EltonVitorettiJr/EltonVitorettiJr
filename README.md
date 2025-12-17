@@ -35,9 +35,3 @@ Já tive experiências com as tecnologias:<br>
   <a href="https://www.instagram.com/juninhovitoretti/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.facebook.com/juninho.a.vitoretti/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 </div>
-<br>
-<br>
-<div align="center">
-  <p>Outras informações gerais sobre meu perfil:</p>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EltonVitorettiJr)](https://github.com/anuraghazra/github-readme-stats)
-</div>
